@@ -4,4 +4,5 @@
 Ongoing.
 
 # Chapters
-- [Data Warehousing Concepts](./notes/01-data-warehousing-concepts.md)
+- [Data Warehousing Concepts](./notes/01-data-warehousing-concepts)
+- [Data Warehousing Arquitecture](./notes/02-data-warehousing-arquitecture)

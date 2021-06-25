@@ -1,3 +1,11 @@
+ <table class="center" style="margin-left:auto;margin-right:auto">
+  <tr>
+    <th><a href="/">Home</a></th>
+    <th><a href="../02-data-warehousing-architecture">(Next) Data Warehousing Arquitecture</a></th>
+  </tr>
+</table> 
+
+
 # Data Warehousing Concepts
 
 ## What is a data warehouse?
